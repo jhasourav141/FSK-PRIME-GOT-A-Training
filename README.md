@@ -2,7 +2,9 @@
 
 **Program:** Government Officer Training – Advanced in Artificial Intelligence (GOT-A)
 **Institute:** National Institute of Electronics and Information Technology (NIELIT), Delhi Centre – East Campus (Karkardooma), MeitY, Government of India
-**Submitted by:** Sourav Kumar Jha, National Informatics Centre (NIC)
+**Course Instructor:** Anita Mahajan
+
+**Submitted by:** Sourav Kumar Jha, DIA-Garhwa_District_Centre-Jharkhand, National Informatics Centre (NIC)
 
 This repository holds my two submissions for the GOT-A programme. Each project is in its own folder.
 
@@ -157,4 +159,6 @@ On Linux or macOS use `python3` in place of `py -3.12`.
 ---
 
 ## 7. Acknowledgements
+Sincere thanks to **Anita Mahajan Madam**, Course Instructor, for her guidance throughout the GOT-A programme.
+
 Exercises and case study prescribed by NIELIT Delhi Centre, Ministry of Electronics and Information Technology (MeitY), Government of India.
