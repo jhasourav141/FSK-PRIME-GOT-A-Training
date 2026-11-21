@@ -2,6 +2,7 @@
 
 **Program:** Government Officer Training – Advanced in Artificial Intelligence (GOT-A)
 **Institute:** National Institute of Electronics and Information Technology (NIELIT), Delhi Centre – East Campus (Karkardooma), MeitY, Government of India
+
 **Course Instructor:** Anita Mahajan
 
 **Submitted by:** Sourav Kumar Jha, DIA-Garhwa_District_Centre-Jharkhand, National Informatics Centre (NIC)
